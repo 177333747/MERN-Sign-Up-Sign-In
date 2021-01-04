@@ -41,8 +41,8 @@ export const AuthPage = () => {
 }
 
   return (
-    <div className="row">
-      <div className="col s6 offset-s3">
+    <div className="row text-align: center "style={{paddingTop: '18rem' }} >
+      <div className="col s4 offset-s4 ">
         
         <div className="card blue darken-4">
           <div className="card-content white-text">
